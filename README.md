@@ -82,6 +82,7 @@ electron-packager <pasta_da_aplicação> <nome_da_aplicação> --platform=darwin
 --platform=darwin especifica que você deseja gerar um pacote para macOS.
 --arch=x64 especifica que você deseja gerar um pacote para a arquitetura x64 (64 bits).
 --icon=<caminho_do_icone.icns> especifica o caminho para o arquivo de ícone a ser usado pela aplicação. O formato de ícone padrão para macOS é .icns.
+
 Exemplo de código: <a href='https://blog.rocketseat.com.br/electron-construindo-aplicacoes-desktop-com-javascript/'>Rockseat construindo aplicacoes desktop com javascript</a>
 
 11)	O executável para MacOS fica na pasta do projeto: \dist\WebSite_WebComponents-darwin-x64\WebSite_WebComponents.app\Contents\MacOS\nomeDoTeuPrograma.arquivo 
